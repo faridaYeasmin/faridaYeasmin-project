@@ -1,0 +1,12 @@
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\bin\Debug\StudentYearlyCostCalculatorApp.exe.config
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\bin\Debug\StudentYearlyCostCalculatorApp.exe
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\bin\Debug\StudentYearlyCostCalculatorApp.pdb
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.Properties.Resources.resources
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.csproj.GenerateResource.Cache
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.exe
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.pdb
+c:\users\seo\documents\visual studio 2013\Projects\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.YearlyCostCalculatorUI.resources
+C:\Users\Web App Develop .Net\Desktop\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\bin\Debug\StudentYearlyCostCalculatorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\StudentYearlyCostCalculatorApp\StudentYearlyCostCalculatorApp\obj\Debug\StudentYearlyCostCalculatorApp.pdb
